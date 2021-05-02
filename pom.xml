@@ -67,7 +67,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.first.proj.Main</mainClass>
+                            <mainClass>com.apress.gswmbook.HelloWorld</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
